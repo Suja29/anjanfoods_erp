@@ -1,0 +1,3 @@
+[functions.seed-demo-users]
+verify_jwt = false
+entrypoint = "./functions/seed-demo-users/index.ts"
